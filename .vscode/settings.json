@@ -11,7 +11,7 @@
     ],
     "markdownConverter.ConversionType": [
         "PDF",
-        "HTML"
+        "SelfContainedHTML"
     ],
     "markdownConverter.Document.HeaderFooterEnabled": false,
     "markdownConverter.Document.Paper.Margin": {

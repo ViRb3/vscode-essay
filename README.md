@@ -32,8 +32,5 @@ A [VSCode](https://code.visualstudio.com/) template optimized for HTML and PDF d
 - `/assets/style.css`
   - extra style changes
 
-## Self-contained HTML
-Replace `"HTML"` with `"SelfContainedHTML"` under `markdownConverter.ConversionType` in `.vscode/settings.json`
-
 ## License
 MIT
