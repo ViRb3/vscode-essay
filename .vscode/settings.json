@@ -2,12 +2,12 @@
     "markdown.styles": [
         "assets/github-markdown.css",
         "assets/fixes.css",
-        "assets/style.css",
+        "assets/style.css"
     ],
     "markdownConverter.Document.Design.StyleSheets": [
         "assets/github-markdown.css",
         "assets/fixes.css",
-        "assets/style.css",
+        "assets/style.css"
     ],
     "markdownConverter.ConversionType": [
         "PDF",
