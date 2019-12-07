@@ -1,6 +1,11 @@
 # VSCode Markdown Print Template
 A [VSCode](https://code.visualstudio.com/) template optimized for HTML and PDF document generation from Markdown with a GitHub-style theme and extras
 
+## Demo
+- [PDF](DEMO.pdf)
+- [HTML](DEMO.html.zip)
+- [Source](DEMO.md)
+
 ## Packages
 ### Required
 - [Markdown Converter](https://marketplace.visualstudio.com/items?itemName=manuth.markdown-converter)
