@@ -14,4 +14,10 @@
         "HTML"
     ],
     "markdownConverter.Document.HeaderFooterEnabled": false,
+    "markdownConverter.Document.Paper.Margin": {
+        "Bottom": "1cm",
+        "Left": "0.1cm",
+        "Right": "0.1cm",
+        "Top": "1cm"
+    }
 }
