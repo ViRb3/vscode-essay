@@ -1,5 +1,5 @@
-# GitHub-style Markdown Print Setup
-A setup optimized for both HTML and PDF document generation from Markdown with a GitHub-style theme and extras
+# VSCode Markdown Print Template
+A [VSCode](https://code.visualstudio.com/) template optimized for HTML and PDF document generation from Markdown with a GitHub-style theme and extras
 
 ## Packages
 ### Required
