@@ -32,6 +32,10 @@ body {
     color: initial;
 }
 
+.vscode-body code > code {
+    font-size: 100%;
+}
+
 .vscode-body code > div {
     background: none;
 }
