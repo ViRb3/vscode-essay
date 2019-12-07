@@ -20,4 +20,12 @@ A setup optimized for both HTML and PDF document generation from Markdown with a
 4. Press `F1 > Markdown Convert Document`
 
 ## Customization
-Check `style.css`
+- `/assets/github-markdown.css`
+  - base theme from [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) (MIT License)
+- `/assets/fixes.css`
+  - VSCode-specific fixes from [vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style)  (MIT License) and personal patches
+- `/assets/style.css`
+  - extra style changes
+
+## License
+MIT
