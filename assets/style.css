@@ -1,0 +1,12 @@
+/* Increase LaTeX math text */
+.katex {
+  font-size: 1.2em !important;
+}
+
+/* Make blockquotes more distinguishable */
+.vscode-body blockquote {
+  padding: 0.2em 0.4em !important;
+  color: black !important;
+  background-color: #f6f8fa !important;
+  border-left: 0.35em solid #ccc !important;
+}
