@@ -1,4 +1,4 @@
-# VSCode Markdown Print Template
+# VSCode Essay
 A [VSCode](https://code.visualstudio.com/) template optimized for HTML and PDF document generation from Markdown with a GitHub-style theme and extras
 
 ## Demo
