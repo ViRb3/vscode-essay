@@ -28,7 +28,8 @@ function show(x, y, z) {
 
 ## Page Break
 _PDF only_
-<p style="page-break-before: always"></p>
+
+---
 
 ## Math
 ### Unbounded knapsack problem (UKP) 

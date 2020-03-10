@@ -10,3 +10,9 @@
   background-color: #f6f8fa !important;
   border-left: 0.35em solid #ccc !important;
 }
+
+/* make horizontal rule invisible and add PDF page break */
+.vscode-body hr {
+  height: 0 !important;
+  page-break-after: always !important;
+}
