@@ -41,7 +41,6 @@ Maximize:
 Subject to:
 > $$ \sum_{i=1}^{m}v_ix_i \leq W \text{ and } x_i \ge 0 $$
 
-
 ## Mermaid
 ### Graphs
 ```mermaid
